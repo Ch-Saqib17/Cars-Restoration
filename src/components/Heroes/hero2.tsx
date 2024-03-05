@@ -33,7 +33,7 @@ const Hero2: React.FC = () => {
               className="-mt-20 ml-4 md:-ml-7 lg:-ml-7"
             />
             {/*Box */}
-            <div className="bg-gray-100 w-32 h-32 lg:w-60 lg:h-44 md:w-60 md:h-40 shadow-lg flex justify-center items-center -mt-60 ml-[260px] md:-mt-80 md:ml-[400px] lg:-mt-60 lg:ml-[360px] absolute">
+            <div className="bg-gray-100 w-32 h-32 lg:w-60 lg:h-44 md:w-60 md:h-40 shadow-lg flex justify-center items-center -mt-60 ml-[220px] md:-mt-80 md:ml-[400px] lg:-mt-60 lg:ml-[360px] absolute">
               <div className="text-center">
                 <div className="text-red-500 font-extrabold text-4xl md:text-4xl lg:text-6xl">
                   25 K+
