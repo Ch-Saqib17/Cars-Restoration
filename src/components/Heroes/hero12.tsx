@@ -14,7 +14,7 @@ const Hero12 = () => {
           height={1000}
           className="pr-10 md:pr-0 lg:pr-0"
         ></video>
-        <div className="bg-gray-100 w-32 h-32 lg:w-60 lg:h-44 md:w-60 md:h-40 shadow-lg flex justify-center items-center -mt-44 ml-[270px] md:-mt-80 md:ml-[400px] lg:-mt-60 lg:ml-[400px] absolute">
+        <div className="bg-gray-100 w-32 h-32 lg:w-60 lg:h-44 md:w-60 md:h-40 shadow-lg flex justify-center items-center -mt-44 ml-[220px] md:-mt-80 md:ml-[400px] lg:-mt-60 lg:ml-[400px] absolute">
           <div className="text-center">
             <div className="text-red-500 font-extrabold text-4xl md:text-4xl lg:text-6xl">
               25 K+
