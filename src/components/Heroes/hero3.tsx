@@ -4,7 +4,14 @@ import { Button } from "../ui/button";
 const Hero3 = () => {
   return (
     <div className="">
-      <video src="/video2.mp4" autoPlay loop muted playsInline></video>
+     <video
+        src="/video2.mp4"
+        autoPlay
+        loop
+        muted
+        playsInline
+        className="w-full"
+      ></video>
       <div className="flex-row text-center -mt-[200px] px-[50px] md:-mt-[400px] md:px-[200px]  lg:-mt-[500px] lg:px-[300px]">
         <div className="mb-2 md:mb-3 lg:mb-4">
           <span className=" text-xm md:text-2xl lg:text-5xl lg:font-extrabold font-bold md:font-extrabold text-white mb-0 md:mb-6 lg:mb-6">
