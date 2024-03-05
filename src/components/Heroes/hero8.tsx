@@ -17,7 +17,7 @@ const Hero8 = () => {
         </div>
       </div>
       <div>
-        <div className="w-[400px] h-[250px] bg-blue-500 text-center flex flex-col justify-center items-center">
+        <div className="  w-full h-[250px]  md:w-[400px] md:h-[250px] lg:w-[400px] lg:h-[250px] bg-blue-500 text-center flex flex-col justify-center items-center">
           <h1 className="text-2xl md:text-4xl lg:text-4xl pt-6 font-extrabold text-white">
             Need help?
           </h1>
