@@ -66,7 +66,9 @@ const Navbar = () => {
           {/*PortFolio */}
           <DropdownMenu>
             <DropdownMenuTrigger className="flex items-center">
+              <Link href={"/portfolio"}>
               PortFolio{" "}
+              </Link>
             </DropdownMenuTrigger>
           </DropdownMenu>
           {/*Pages */}
@@ -196,7 +198,9 @@ const Navbar = () => {
             {/*PortFolio */}
             <DropdownMenu>
               <DropdownMenuTrigger className="flex items-center">
-                PortFolio{" "}
+              <Link href={"/portfolio"}>
+              PortFolio{" "}
+              </Link>
               </DropdownMenuTrigger>
             </DropdownMenu>
             {/*Pages */}
