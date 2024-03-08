@@ -86,7 +86,7 @@ const Navbar = () => {
               </svg>
             </DropdownMenuTrigger>
             <DropdownMenuContent>
-              <Link href={"/services/ourservices"}>
+              <Link href={"/team"}>
                 <DropdownMenuItem>Team</DropdownMenuItem>
               </Link>
               <DropdownMenuSeparator />
@@ -132,7 +132,7 @@ const Navbar = () => {
             </DropdownMenuContent>
           </DropdownMenu>
           {/*Contact Us */}
-          <Link href={""}>Contact Us</Link>
+          <Link href={"/contact"}>Contact Us</Link>
         </div>
 
         {/* Mobile Menu Toggle */}
@@ -218,7 +218,7 @@ const Navbar = () => {
                 </svg>
               </DropdownMenuTrigger>
               <DropdownMenuContent>
-                <Link href={"/services/ourservices"}>
+                <Link href={"/team"}>
                   <DropdownMenuItem>Team</DropdownMenuItem>
                 </Link>
                 <DropdownMenuSeparator />
@@ -264,7 +264,7 @@ const Navbar = () => {
               </DropdownMenuContent>
             </DropdownMenu>
             {/*Contact Us */}
-            <Link href={""}>Contact Us</Link>
+            <Link href={"/contact"}>Contact Us</Link>
           </div>
         </div>
 
